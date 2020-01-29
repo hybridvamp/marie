@@ -22,13 +22,12 @@ hello {}, my name is {}! if you have any questions about how to use me please gi
 
 im a group manager bot maintained by  [this person](tg://user?id={}).
 
-This bot was officially made for Truly Escrow Group. 
-
 My future updates will be put into This Channel - @ZainsProject.
 
-For more commands click /help...
+You can add me to any group. 
+A powerful group manager bot is here ;) 
 
-Bot made by @Zains_Tech
+For more commands click /help...
 **Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
 
 """
